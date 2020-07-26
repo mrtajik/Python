@@ -1,6 +1,6 @@
 """ 
-Hello World in Python
+Hello World! in Python
 Quick Intro to refresh
 """
 
-print("\nHello World\n")
+print("\nHello, World!\n")
